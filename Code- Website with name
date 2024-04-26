@@ -1,0 +1,10 @@
+<div id="person name">
+  <h1 style="margin-left: 250px;">Agu David Enywmakachukwu</h1>
+  <h1 style="margin-left: 200px;">enyemakachukwu.agu@stu.cu.edu.ng</h1>
+  <title> Buster </title>
+  <img src="person.png" style="height: 200px;width: 200px;">
+  <div id="links">
+    <u>
+      <a href="/presentation">Share</a>
+    </u>
+  </div>
